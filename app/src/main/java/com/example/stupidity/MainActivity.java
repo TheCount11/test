@@ -6,9 +6,9 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-
+// CONFLICT COMMENT
  // WILL IT WORK?!? SEEMS SO
-
+// BLABLABLA
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
