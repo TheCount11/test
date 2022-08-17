@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-
+//conflicts!!!
  // WILL IT WORK?!? SEEMS SO
 
 
@@ -16,3 +16,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+
+//blablabla comment 2
