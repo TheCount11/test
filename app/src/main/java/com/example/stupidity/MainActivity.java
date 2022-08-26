@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-//conflicts, will not work!!!
+//conflicts, will it work?
  // WILL IT WORK?!? SEEMS SO
 
 
